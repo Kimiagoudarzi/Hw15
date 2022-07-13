@@ -1,0 +1,162 @@
+body {
+    background-image: url(./image/pic1.jpg);
+    align-items: center;
+}
+.wrapper {
+    display: flex;
+}
+.navbar {
+    background-color: rgb(0, 0, 0);
+}
+.nav-item {
+    color: white;
+    cursor: pointer;
+}
+#email {
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 13px;
+    margin-left: 85px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    margin-top: -4px;
+}
+#name {
+    margin-top: 10px;
+    margin-left: 100px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.bi-filter-right {
+    margin-left: 1000px;
+    font-size: 35px;
+    color: white;
+    cursor: pointer;
+}
+.left-parag {
+    line-height: 45px;
+    margin-left: 110px;
+    font-size: 55px;
+    margin-top: 100px;
+    font-weight: bolder;
+    font-family: "Times New Roman", Times, serif;
+}
+.left-parag #parag1 {
+    color: white;
+    font-weight: 500;
+    font-size: 35px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+}
+#btn {
+    margin-top: 50px;
+}
+#btn .hireBtn {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 14px;
+    background-color: #d74645;
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    border-radius: 11px;
+    margin-right: 20px;
+    padding-right: 20px;
+}
+.fa-arrow-right {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.278);
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-right: -15px;
+}
+.brands {
+    margin-top: 130px;
+}
+.brands .fa-brands {
+    color: white;
+    font-size: 17px;
+}
+.website {
+    font-size: 13px;
+    margin-left: 50px;
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.website .fa-basketball {
+    margin-right: 10px;
+    font-size: 14px;
+    color: rgb(217, 48, 122);
+}
+.right-parag {
+    margin-left: 640px;
+    margin-top: 90px;
+}
+.right-parag #expert {
+    color: #d65a5a;
+    font-size: 20px;
+}
+.right-parag .parag2 {
+    color: white;
+    line-height: 35px;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-weight: 600;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+}
+.right-parag .parag3 {
+    color: rgb(150, 150, 150);
+    margin-top: 40px;
+    font-size: 20px;
+    line-height: 16px;
+    font-weight: 600;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+}
+.link {
+    margin-top: 50px;
+}
+.link #download {
+    color: #d65a5a;
+}
+.fa-download {
+    margin-left: 5px;
+}
+hr{
+    color: #d65a5a;
+    margin-top: 3px;
+    width: 120px;
+    border: 0;
+    border-top: 1px solid #d65a5a;
+    opacity: 1;
+}
+.chat {
+    display: flex;
+    margin-top: 190px;
+    margin-left: 300px;
+}
+.parag4 {
+    color: white;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+}
+.fa-message {
+    margin-left: 10px;
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+}
+#status {
+    color: rgb(61, 234, 52);
+    margin-top: -40px;
+    margin-left: 24px;
+    font-size: 20px;
+}
+  
